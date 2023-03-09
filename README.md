@@ -60,7 +60,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/welida42/DS_projects_yandex_practicum/tree/main/04-patterns-that-determine-the-success-of-game-platformsr">Patterns that determine the success of game platforms.</a></td>
+  <td><a href="https://github.com/welida42/DS_projects_yandex_practicum/tree/main/04-patterns-that-determine-the-success-of-game-platforms">Patterns that determine the success of game platforms.</a></td>
     <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
 </td>
     <td>Python, Pandas, numpy, Matplotlib, Seaborn, SciPy</td>
@@ -72,7 +72,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Math, Seaborn</td>
   </tr>
      <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/03-real-estate-market-analysis">Real estate market analysis</a></td>
+  <td><a href="https://github.com/welida42/DS_projects_yandex_practicum/tree/main/02-real-estate-market-analysis">Real estate market analysis</a></td>
     <td>Using data from the Yandex.Realty service, i determined the market value of real estate objects and typical parameters of apartments.</td>
     <td>Python, Pandas, Matplotlib</td>
   </tr>
